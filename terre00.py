@@ -1,3 +1,5 @@
+# L'alphabet
+
 # Variable qui contient l'alphabet
 Alphabet = "abcdefghijklmnopqrstuvwxyz"
 # Boucle demander dans l'énoncer
