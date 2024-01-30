@@ -1,4 +1,1 @@
-# Afficheur d'argument
-
-# 
-fichier = input()
+# Nom du programme
